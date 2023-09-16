@@ -1,0 +1,60 @@
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.table{
+    border-collapse: collapse;
+    width: 20%;
+    max-width: 800px;
+}
+.product-name h2{
+    font-size: 30px;
+    color: blue;
+}
+.product-name p{
+    color: green;
+}
+.button {
+    padding: 10px 20px;
+    background-color: #070707;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button:hover {
+    background-color: #070707;
+}
+.feature{
+    padding: 5px;
+    border: auto;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    width: auto;
+    height: 300px;
+    margin-top: 100px;
+}
+.pricing{
+    text-align: center;
+    justify-content: center;
+    line-height: 40px;
+}
+.pricing ul{
+    padding: auto;
+    border: auto;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    width: auto;
+    height: auto;
+    margin-top: auto;
+}
