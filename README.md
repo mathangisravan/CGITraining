@@ -1,2 +1,2 @@
 # CGITraining
-Here i will be uploading app practice problems
+Here i will be uploading CGI Training practice problems
